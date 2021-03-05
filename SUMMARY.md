@@ -1,15 +1,10 @@
 # Table of contents
 
-* [前言](README.md)
+* [Initial page](README.md)
 
 ## 浏览器相关
 
 * [webKit](liu-lan-qi-xiang-guan/webkit.md)
-	
-	
-	
-	
-	
 
 ## JavaScript
 
@@ -21,7 +16,7 @@
 
 ## 网络相关
 
-* [Untitled](wang-luo-xiang-guan/untitled.md)
+* [HTTP的重定向](wang-luo-xiang-guan/untitled.md)
 
 ## Vue
 
