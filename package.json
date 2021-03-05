@@ -1,0 +1,21 @@
+{
+  "name": "Gitbook-FENote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"build": "gitbook build ./content ./docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hjw52/Gitbook-FENote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hjw52/Gitbook-FENote/issues"
+  },
+  "homepage": "https://github.com/Hjw52/Gitbook-FENote#readme"
+}
